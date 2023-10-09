@@ -1,2 +1,2 @@
 print("hello world")
-print('gay')
+print('hello ACSE people')
