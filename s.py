@@ -1,5 +1,7 @@
 print("hello world")
-print('gay')
+
+print('who is gay')
+
 
 
 #Enjoy
@@ -8,3 +10,4 @@ print('gay')
 #The
 #Conflicts
 #hehehehe - Love Alex
+
